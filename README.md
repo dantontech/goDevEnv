@@ -30,6 +30,7 @@ Run GoInstallBinaries to complete vim-go setup
 :GoInstallBinaries
 ```
 ### Step 6:
-```
 Exit Neovim and reload the Neovim config file
+```
 source ~/.config/nvim/init.vim
+```
